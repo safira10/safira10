@@ -23,7 +23,22 @@ Oi, eu sou a **Safira**! Estudo **Engenharia de Software** no Centro Universitá
 - 💻 Fiz o curso de **Programação Web no SENAC**
 - 🎨 Gosto de transformar ideias em interfaces com **HTML, CSS e JavaScript**
 - 🐍 Também estou aprendendo **Python com Flask**
+- 🎓 Minhas **atividades da faculdade** estão no repositório [UDF](https://github.com/safira10/UDF)
 - 🔎 **Buscando meu primeiro estágio** em front-end
+
+---
+
+## 🎓 Atividades da faculdade
+
+<div align="center">
+
+> *Projetos acadêmicos que desenvolvi durante a graduação em Engenharia de Software: algoritmos em C, banco de dados, Git e muito mais.*
+
+<a href="https://github.com/safira10/UDF">
+  <img src="https://img.shields.io/badge/Ver_todas_as_minhas_atividades-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d12" alt="Ver atividades da faculdade no repositório UDF" />
+</a>
+
+</div>
 
 ---
 
@@ -49,27 +64,6 @@ Oi, eu sou a **Safira**! Estudo **Engenharia de Software** no Centro Universitá
 
 </div>
 
-## 🎓 Projetos acadêmicos
-
-<div align="center">
-
-> *Trabalhos desenvolvidos durante minha graduação em Engenharia de Software na UDF.*
-
-</div>
-
-| Projeto | Disciplina | Tecnologias | Link |
-|:--|:--|:--|:--:|
-| **Bubble Sort** · algoritmo com o tema consumo de energia (trabalho em grupo) | Algoritmos e Pensamento Computacional | ![C](https://img.shields.io/badge/C-7C3AED?style=flat-square&logo=c&logoColor=white&labelColor=0d0d12) | [Ver](https://github.com/safira10?tab=repositories) |
-| **Blog de receitas** · site com CRUD completo, parte do front-end (trabalho em grupo) | Projeto em grupo | ![HTML](https://img.shields.io/badge/HTML-C084FC?style=flat-square&logo=html5&logoColor=white&labelColor=0d0d12) ![CSS](https://img.shields.io/badge/CSS-A78BFA?style=flat-square&logo=css3&logoColor=white&labelColor=0d0d12) ![JS](https://img.shields.io/badge/JavaScript-E879F9?style=flat-square&logo=javascript&logoColor=white&labelColor=0d0d12) | [Ver](https://github.com/safira10?tab=repositories) |
-
-<div align="center">
-
-<a href="https://github.com/safira10?tab=repositories">
-  <img src="https://img.shields.io/badge/Ver_todos_os_trabalhos-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d12" alt="Ver todos os trabalhos" />
-</a>
-
-</div>
-
 <!--
 MODELO DE CARD: copie, cole acima e troque NOME-DO-REPO.
 Quando tiver projeto fixado, descomente e preencha.
@@ -79,40 +73,6 @@ Quando tiver projeto fixado, descomente e preencha.
 </a>
 -->
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=safira10&show_icons=true&hide_border=false&title_color=C084FC&icon_color=E879F9&text_color=ffffff&bg_color=0d0d12&border_color=7C3AED&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safira10&layout=compact&hide_border=false&title_color=C084FC&text_color=ffffff&bg_color=0d0d12&border_color=7C3AED" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=safira10&hide_border=false&background=0d0d12&border=7C3AED&stroke=7C3AED&ring=C084FC&fire=E879F9&currStreakNum=ffffff&currStreakLabel=C084FC&sideNums=ffffff&sideLabels=C084FC&dates=A78BFA" alt="Streak" />
-
-</div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=safira10&bg_color=0d0d12&color=C084FC&line=7C3AED&point=E879F9&area=true&area_color=7C3AED&hide_border=true&title_color=C084FC" alt="Activity Graph" width="100%" />
-
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=safira10&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
