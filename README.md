@@ -49,6 +49,27 @@ Oi, eu sou a **Safira**! Estudo **Engenharia de Software** no Centro Universitá
 
 </div>
 
+## 🎓 Projetos acadêmicos
+
+<div align="center">
+
+> *Trabalhos desenvolvidos durante minha graduação em Engenharia de Software na UDF.*
+
+</div>
+
+| Projeto | Disciplina | Tecnologias | Link |
+|:--|:--|:--|:--:|
+| **Bubble Sort** · algoritmo com o tema consumo de energia (trabalho em grupo) | Algoritmos e Pensamento Computacional | ![C](https://img.shields.io/badge/C-7C3AED?style=flat-square&logo=c&logoColor=white&labelColor=0d0d12) | [Ver](https://github.com/safira10?tab=repositories) |
+| **Blog de receitas** · site com CRUD completo, parte do front-end (trabalho em grupo) | Projeto em grupo | ![HTML](https://img.shields.io/badge/HTML-C084FC?style=flat-square&logo=html5&logoColor=white&labelColor=0d0d12) ![CSS](https://img.shields.io/badge/CSS-A78BFA?style=flat-square&logo=css3&logoColor=white&labelColor=0d0d12) ![JS](https://img.shields.io/badge/JavaScript-E879F9?style=flat-square&logo=javascript&logoColor=white&labelColor=0d0d12) | [Ver](https://github.com/safira10?tab=repositories) |
+
+<div align="center">
+
+<a href="https://github.com/safira10?tab=repositories">
+  <img src="https://img.shields.io/badge/Ver_todos_os_trabalhos-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d12" alt="Ver todos os trabalhos" />
+</a>
+
+</div>
+
 <!--
 MODELO DE CARD: copie, cole acima e troque NOME-DO-REPO.
 Quando tiver projeto fixado, descomente e preencha.
